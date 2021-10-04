@@ -11,5 +11,5 @@ Created a w3schools basics repo for practice with boilerplate code.
 Used Create-React-App to start on a todo list application
 Started learning about creating new components and the react ecosystem
 
-
-
+### Day 3: Octobor 03, 2021
+Got data rendering from a react component
