@@ -13,3 +13,4 @@ Started learning about creating new components and the react ecosystem
 
 ### Day 3: Octobor 03, 2021
 Got data rendering from a react component
+Learned a lot about JSX, it's tricky because it's not HTML
