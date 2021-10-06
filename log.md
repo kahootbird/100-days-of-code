@@ -18,4 +18,6 @@ Learned a lot about JSX, it's tricky because it's not HTML
 ### Day 4: Octobor 04, 2021
 Created a todo component and got basic props to rendering in todo list.
 
-##
+### Day 5: Octobor 05, 2021
+Updated CSS in react app and started detecting click event.
+
