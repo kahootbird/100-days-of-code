@@ -21,3 +21,5 @@ Created a todo component and got basic props to rendering in todo list.
 ### Day 5: Octobor 05, 2021
 Updated CSS in react app and started detecting click event.
 
+### Day 6: Octobor 06, 2021
+Learned a little more about React hooks. Created new form component. 
