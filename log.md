@@ -23,3 +23,6 @@ Updated CSS in react app and started detecting click event.
 
 ### Day 6: Octobor 06, 2021
 Learned a little more about React hooks. Created new form component. 
+
+### Day 7: Octobor 07, 2021
+Took a break from React for today and started working on a web music app
