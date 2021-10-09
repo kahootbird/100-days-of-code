@@ -26,3 +26,6 @@ Learned a little more about React hooks. Created new form component.
 
 ### Day 7: Octobor 07, 2021
 Took a break from React for today and started working on a web music app
+
+### Day 8: Octobor 08, 2021
+Fixed music app sound issue with audiocontext. Worked more on react todo app.
