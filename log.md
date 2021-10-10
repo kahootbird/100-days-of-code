@@ -29,3 +29,6 @@ Took a break from React for today and started working on a web music app
 
 ### Day 8: Octobor 08, 2021
 Fixed music app sound issue with audiocontext. Worked more on react todo app.
+
+### Day 9: Octobor 09, 2021
+Experimented with layouts using Bootstrap for the music app.
