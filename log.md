@@ -32,3 +32,8 @@ Fixed music app sound issue with audiocontext. Worked more on react todo app.
 
 ### Day 9: Octobor 09, 2021
 Experimented with layouts using Bootstrap for the music app.
+
+### Day 10: Octobor 10, 2021
+Got todo app to barely working after figuring out the cause of array.map error. Using (variable) as opposed to ({variable}) in react is a big deal!
+
+
