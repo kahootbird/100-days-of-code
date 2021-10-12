@@ -36,4 +36,5 @@ Experimented with layouts using Bootstrap for the music app.
 ### Day 10: Octobor 10, 2021
 Got todo app to barely working after figuring out the cause of array.map error. Using (variable) as opposed to ({variable}) in react is a big deal!
 
-
+### Day 11: Octobor 11, 2021
+Started a a new full stack project with express, Kahootbird's coffee shop. 
