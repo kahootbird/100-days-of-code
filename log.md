@@ -38,3 +38,6 @@ Got todo app to barely working after figuring out the cause of array.map error. 
 
 ### Day 11: Octobor 11, 2021
 Started a a new full stack project with express, Kahootbird's coffee shop. 
+
+### Day 12: Octobor 12, 2021
+Played around with pug template syntax a bit, implemented bootstrap.
