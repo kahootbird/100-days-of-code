@@ -41,3 +41,6 @@ Started a a new full stack project with express, Kahootbird's coffee shop.
 
 ### Day 12: Octobor 12, 2021
 Played around with pug template syntax a bit, implemented bootstrap.
+
+### Day 13: Octobor 13, 2021
+Created a non-functional login page for coffee shop app.
