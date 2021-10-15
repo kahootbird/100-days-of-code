@@ -44,3 +44,6 @@ Played around with pug template syntax a bit, implemented bootstrap.
 
 ### Day 13: Octobor 13, 2021
 Created a non-functional login page for coffee shop app.
+
+### Day 14: Octobor 14, 2021
+Added header, footer, and navbar to pages of coffee shop app.
