@@ -47,3 +47,8 @@ Created a non-functional login page for coffee shop app.
 
 ### Day 14: Octobor 14, 2021
 Added header, footer, and navbar to pages of coffee shop app.
+
+### Day 15: Octobor 15, 2021
+Installed passport.js. Worked toward setting up mongodb either local or in the cloud.
+
+
