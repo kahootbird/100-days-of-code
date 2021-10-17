@@ -51,4 +51,7 @@ Added header, footer, and navbar to pages of coffee shop app.
 ### Day 15: Octobor 15, 2021
 Installed passport.js. Worked toward setting up mongodb either local or in the cloud.
 
+### Day 16: Octobr 16, 2021
+Added div resembling jumbotrun then adjusted text, it all needs a redo though..
+
 
