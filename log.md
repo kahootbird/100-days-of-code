@@ -56,3 +56,6 @@ Added div resembling jumbotrun then adjusted text, it all needs a redo though..
 
 ### Day 17: Octobor 17, 2021
 Worked on music app adding a play button and button keys in plain HTML.
+
+### Day 18: Octobor 18, 2021
+Read up on passing parameters through node routes / experimented with listing items in coffee shot.
