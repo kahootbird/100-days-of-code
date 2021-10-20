@@ -59,3 +59,7 @@ Worked on music app adding a play button and button keys in plain HTML.
 
 ### Day 18: Octobor 18, 2021
 Read up on passing parameters through node routes / experimented with listing items in coffee shot.
+
+### Day 19: Octobor 19, 2021
+Changed coffee project to mini message board, made new coffee site project for HTML only. Switched from pug to ejs.
+
