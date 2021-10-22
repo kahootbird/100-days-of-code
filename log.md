@@ -63,3 +63,6 @@ Read up on passing parameters through node routes / experimented with listing it
 ### Day 19: Octobor 19, 2021
 Changed coffee project to mini message board, made new coffee site project for HTML only. Switched from pug to ejs.
 
+### Day 20: Octobor 20, 2021
+Got mongodb atlas connected, installed dotenv to commit with env variable.
+
