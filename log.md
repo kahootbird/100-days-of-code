@@ -66,3 +66,11 @@ Changed coffee project to mini message board, made new coffee site project for H
 ### Day 20: Octobor 20, 2021
 Got mongodb atlas connected, installed dotenv to commit with env variable.
 
+### (discrepancy found in log / tweets, actual Day 20) Octobor 21, 2021
+Created and read a document in mongodb atlas with node code.
+
+### Day 21: Octobor 22, 2021
+Got parameters to echoing in ejs from post request.
+
+### Day 22: Octobor 23, 2021
+Looked into using vue and vue/CLI for message board.
