@@ -74,3 +74,6 @@ Got parameters to echoing in ejs from post request.
 
 ### Day 22: Octobor 23, 2021
 Looked into using vue and vue/CLI for message board.
+
+### Day 23: Octobor 24, 2021
+Figured out how to manually move vue build to ejs from npm run build command
