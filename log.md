@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ 100 Days Of Code - Log
 
 ### Day 1: Octobor 01, 2021
 Made commit to 100 days of code repo.
@@ -77,3 +77,8 @@ Looked into using vue and vue/CLI for message board.
 
 ### Day 23: Octobor 24, 2021
 Figured out how to manually move vue build to ejs from npm run build command
+
+### Day 24: Octobor 25, 2021
+Worked towards getting API working to connect to DB in mini messageboard app.
+
+
