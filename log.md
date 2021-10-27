@@ -81,4 +81,7 @@ Figured out how to manually move vue build to ejs from npm run build command
 ### Day 24: Octobor 25, 2021
 Worked towards getting API working to connect to DB in mini messageboard app.
 
+### Day 25: Octobor 26, 2021
+Got route to reading data from API in JS object
+
 
