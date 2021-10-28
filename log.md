@@ -84,4 +84,7 @@ Worked towards getting API working to connect to DB in mini messageboard app.
 ### Day 25: Octobor 26, 2021
 Got route to reading data from API in JS object
 
+### Day 26: Octobor 27, 2021
+Got API post to working and read, needs adjusted a bit though, too much information..
+
 
