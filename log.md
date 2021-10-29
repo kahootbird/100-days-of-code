@@ -87,4 +87,7 @@ Got route to reading data from API in JS object
 ### Day 26: Octobor 27, 2021
 Got API post to working and read, needs adjusted a bit though, too much information..
 
+### Day 27: Octobor 28, 2021
+Refactored code, came across bug in foreach with message board API
+
 
