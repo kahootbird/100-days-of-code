@@ -90,4 +90,7 @@ Got API post to working and read, needs adjusted a bit though, too much informat
 ### Day 27: Octobor 28, 2021
 Refactored code, came across bug in foreach with message board API
 
+### Day 28: Octobor 29, 2021
+Fixed more API read issues, next just need to work on vue front end.
+
 
