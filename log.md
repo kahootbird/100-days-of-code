@@ -95,3 +95,8 @@ Fixed more API read issues, next just need to work on vue front end.
 
 ### Day 29: October 30, 2021
 Started examining how to fetch data with vue using axios and fetch API.
+
+### Day 30: October 31, 2021
+Made more progress on the forms for the front end with v-model in vue
+
+
