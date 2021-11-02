@@ -99,4 +99,5 @@ Started examining how to fetch data with vue using axios and fetch API.
 ### Day 30: October 31, 2021
 Made more progress on the forms for the front end with v-model in vue
 
-
+### Day31: November 01, 2021
+Worked fetch API, remaking code in straight HTML.
