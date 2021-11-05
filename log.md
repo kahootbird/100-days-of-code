@@ -111,3 +111,8 @@ Tweeted but forgot to update this log, worked on fetch/vue
 
 ### Day 34: November 04, 2021
 Worked on dynamically displaying an ordered list in vue.
+
+### Day 35: November 05, 2021
+Started working on API delete request / still working on displaying results, etc.
+
+
