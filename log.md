@@ -104,3 +104,10 @@ Worked fetch API, remaking code in straight HTML.
 
 ### Day 32: November 02, 2021
 Got fetch call working properly in mini message board.
+
+
+### Day 33: November 03, 2021
+Tweeted but forgot to update this log, worked on fetch/vue
+
+### Day 34: November 04, 2021
+Worked on dynamically displaying an ordered list in vue.
