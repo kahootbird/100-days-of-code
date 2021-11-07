@@ -116,3 +116,7 @@ Worked on dynamically displaying an ordered list in vue.
 Started working on API delete request / still working on displaying results, etc.
 
 
+### Day 36: November 06, 2021
+Added bootstrap / poked a API code a bit more, clocks go back an hour tonight..
+
+
