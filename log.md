@@ -119,4 +119,7 @@ Started working on API delete request / still working on displaying results, etc
 ### Day 36: November 06, 2021
 Added bootstrap / poked a API code a bit more, clocks go back an hour tonight..
 
+### Day 37: November 07, 2021
+Fetch API on front end working now to show results & delete api now working on backend justs needs implemented.
+
 
