@@ -125,4 +125,7 @@ Fetch API on front end working now to show results & delete api now working on b
 ### Day 38: November 08, 2021
 Added form on front page, started working on getting it working with fetch API.
 
+### Day 39: November 09, 2021
+Fetch API for post/author shold work from frontend, added X button to close posts (delete)
+
 
