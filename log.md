@@ -128,4 +128,7 @@ Added form on front page, started working on getting it working with fetch API.
 ### Day 39: November 09, 2021
 Fetch API for post/author shold work from frontend, added X button to close posts (delete)
 
+### Day 40: November 10, 2021
+V-for in fetch api, figured out to do ((index,value) value) to get index. So more progress on mini message board..
+
 
