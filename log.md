@@ -131,4 +131,6 @@ Fetch API for post/author shold work from frontend, added X button to close post
 ### Day 40: November 10, 2021
 V-for in fetch api, figured out to do ((index,value) value) to get index. So more progress on mini message board..
 
+### Day 41: November 11, 2021
+Started looking into either adding a mongodb trigger for auto increment id or having application fetch data each time.
 
