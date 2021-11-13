@@ -134,3 +134,6 @@ V-for in fetch api, figured out to do ((index,value) value) to get index. So mor
 ### Day 41: November 11, 2021
 Started looking into either adding a mongodb trigger for auto increment id or having application fetch data each time.
 
+### Day 42: November 12, 2021
+Got V-for to listing posts depending on how many there are in message board app. Also went back and worked on the coffee shop design just a bit.
+
