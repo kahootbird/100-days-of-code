@@ -137,3 +137,6 @@ Started looking into either adding a mongodb trigger for auto increment id or ha
 ### Day 42: November 12, 2021
 Got V-for to listing posts depending on how many there are in message board app. Also went back and worked on the coffee shop design just a bit.
 
+### Day 43: November 13, 2021
+Fixed vue fetch API to auto show on deleting posts and submit to auto refresh. Still a bug in the delete index though I'm going to have to fix later.
+
