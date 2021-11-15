@@ -140,3 +140,7 @@ Got V-for to listing posts depending on how many there are in message board app.
 ### Day 43: November 13, 2021
 Fixed vue fetch API to auto show on deleting posts and submit to auto refresh. Still a bug in the delete index though I'm going to have to fix later.
 
+## Day 44: November 14, 2021
+Made backend API display authors from mongodb.
+
+
