@@ -147,5 +147,7 @@ Made backend API display authors from mongodb.
 ### Day 45: November 15, 2021
 Tried figuring out how to detect when null results to render page with collections. Solutions I've tried like collection.count not a function, haven't figured it out yet.
 
+### Day 46: November 16, 2021
+Same bug as yesterday, still working on a fix. Got null result page to render but still has issues.
 
 
