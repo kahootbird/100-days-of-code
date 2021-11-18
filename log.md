@@ -150,4 +150,7 @@ Tried figuring out how to detect when null results to render page with collectio
 ### Day 46: November 16, 2021
 Same bug as yesterday, still working on a fix. Got null result page to render but still has issues.
 
+### Day 47: November 17, 2021
+Showing null with add/delete working now in message board.
+
 
