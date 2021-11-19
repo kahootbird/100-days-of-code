@@ -153,4 +153,6 @@ Same bug as yesterday, still working on a fix. Got null result page to render bu
 ### Day 47: November 17, 2021
 Showing null with add/delete working now in message board.
 
+### Day 48: November 18, 2021
+id delete working with authorid, not completely in order on fronted, however.
 
