@@ -156,3 +156,6 @@ Showing null with add/delete working now in message board.
 ### Day 48: November 18, 2021
 id delete working with authorid, not completely in order on fronted, however.
 
+### Day 49: November 19, 2021
+Got author and post to showing together in message board.
+
