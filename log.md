@@ -159,3 +159,7 @@ id delete working with authorid, not completely in order on fronted, however.
 ### Day 49: November 19, 2021
 Got author and post to showing together in message board.
 
+### Day 50: November 20, 2021
+Fixed ID enumeration issue, seemingly fully functional.
+
+
