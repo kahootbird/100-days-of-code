@@ -162,4 +162,6 @@ Got author and post to showing together in message board.
 ### Day 50: November 20, 2021
 Fixed ID enumeration issue, seemingly fully functional.
 
+### Day 51: November 21, 2021
+Seperated author/post on different lines with vue
 
