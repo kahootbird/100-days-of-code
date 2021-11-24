@@ -165,3 +165,6 @@ Fixed ID enumeration issue, seemingly fully functional.
 ### Day 51: November 21, 2021
 Seperated author/post on different lines with vue
 
+### Day 52: November 22, 2021
+Worked on music app just a bit, took time to reflect on portfolio, current progress and roadmap going forward.
+
