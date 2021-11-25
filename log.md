@@ -168,3 +168,10 @@ Seperated author/post on different lines with vue
 ### Day 52: November 22, 2021
 Worked on music app just a bit, took time to reflect on portfolio, current progress and roadmap going forward.
 
+### Day 53: November 23, 2021
+Workded on Music UI, investigated portfolio quality
+
+### Day 54: November 24, 2021
+Started revamping music app using create-next-app, reading up on Next.js usage with React.
+
+
