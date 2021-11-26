@@ -174,4 +174,6 @@ Workded on Music UI, investigated portfolio quality
 ### Day 54: November 24, 2021
 Started revamping music app using create-next-app, reading up on Next.js usage with React.
 
+### Day 55: November 25, 2021
+Tried to define script tag in JSX for music app, that's not the proper way, looking for a solution. Try again later..
 
