@@ -180,4 +180,7 @@ Tried to define script tag in JSX for music app, that's not the proper way, look
 ### Day 56: November 26, 2021
 Defined script file in music app
 
+### Day 57: November 27, 2021
+Working on onClick event, same issue as yesterday, node modules might be the answer instead of calling a static file's click event with Next.js.
+
 
