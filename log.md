@@ -182,5 +182,3 @@ Defined script file in music app
 
 ### Day 57: November 27, 2021
 Working on onClick event, same issue as yesterday, node modules might be the answer instead of calling a static file's click event with Next.js.
-
-
