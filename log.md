@@ -186,4 +186,7 @@ Working on onClick event, same issue as yesterday, node modules might be the ans
 ### Day 58: November 28, 2021
 Play audio button works in music app using useEffect in React.
 
+### Day 59: November 29, 2021
+Read up of useEffect in React.js. Slightly modified HTML/JSX of music app. Started udemy course.
+
 
