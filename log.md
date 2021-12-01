@@ -189,4 +189,10 @@ Play audio button works in music app using useEffect in React.
 ### Day 59: November 29, 2021
 Read up of useEffect in React.js. Slightly modified HTML/JSX of music app. Started udemy course.
 
+### Day 60: November 30, 2021
+Experimented with Component1 knowledge from Day3 and Next.js in music app
+
+### Day 61: December 01, 2021
+More experimentation with React components
+
 
