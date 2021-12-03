@@ -195,4 +195,6 @@ Experimented with Component1 knowledge from Day3 and Next.js in music app
 ### Day 61: December 01, 2021
 More experimentation with React components
 
+### Day 62: December 02, 2021
+Successfully Called parent component from child component in Next.js/React
 
