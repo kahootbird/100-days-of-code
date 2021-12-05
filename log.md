@@ -201,4 +201,7 @@ Successfully Called parent component from child component in Next.js/React
 ### Day 63: December 03, 2021
 Experimented with useEffect a bit more, got value to passing clearly in music app.
 
+### Day 64: December 04, 2021
+Experimented with View / rearranging buttons for music app
+
 
