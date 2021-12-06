@@ -204,4 +204,9 @@ Experimented with useEffect a bit more, got value to passing clearly in music ap
 ### Day 64: December 04, 2021
 Experimented with View / rearranging buttons for music app
 
+### Day 65: December 05, 2021
+Worked on coffee shop landing page - basic HTML setup
+
+
+
 
