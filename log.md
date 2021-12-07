@@ -207,6 +207,7 @@ Experimented with View / rearranging buttons for music app
 ### Day 65: December 05, 2021
 Worked on coffee shop landing page - basic HTML setup
 
-
+### Day 66: December 06, 2021
+React-Native is different that React. I don't think React has views, figured ou Day 64 problem.
 
 
