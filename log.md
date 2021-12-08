@@ -210,4 +210,6 @@ Worked on coffee shop landing page - basic HTML setup
 ### Day 66: December 06, 2021
 React-Native is different that React. I don't think React has views, figured ou Day 64 problem.
 
+### Day 67: December 07, 2021
+Began experimenting with CSS styling piano with React.
 
