@@ -213,3 +213,7 @@ React-Native is different that React. I don't think React has views, figured ou 
 ### Day 67: December 07, 2021
 Began experimenting with CSS styling piano with React.
 
+### Day 68: December 08, 2021
+Added piano component, started adding CSS.
+
+
