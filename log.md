@@ -216,4 +216,7 @@ Began experimenting with CSS styling piano with React.
 ### Day 68: December 08, 2021
 Added piano component, started adding CSS.
 
+### Day 69: December 09, 2021
+Key component and piano component styled to show piano
+
 
