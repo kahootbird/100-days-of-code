@@ -219,4 +219,7 @@ Added piano component, started adding CSS.
 ### Day 69: December 09, 2021
 Key component and piano component styled to show piano
 
+### Day 70: December 10, 2021
+Added click event to keys
+
 
