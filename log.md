@@ -222,4 +222,7 @@ Key component and piano component styled to show piano
 ### Day 70: December 10, 2021
 Added click event to keys
 
+### Day 71: December 11, 2021
+Experimenting with keypress event
+
 
