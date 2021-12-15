@@ -225,4 +225,13 @@ Added click event to keys
 ### Day 71: December 11, 2021
 Experimenting with keypress event
 
+### Day 72: December 12, 2021
+window event listener inside useEffect keyboard effect for piano
+
+### Day 73: December 13, 2021
+Passed value from props to play tone. Began investigating how keys should be arranged.
+
+### Day 74: December 14, 2021
+Brief break from music app, investigated design patterns & constructor pattenr specifically, also started new repo.
+
 
