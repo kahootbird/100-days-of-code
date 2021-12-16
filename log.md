@@ -234,4 +234,7 @@ Passed value from props to play tone. Began investigating how keys should be arr
 ### Day 74: December 14, 2021
 Brief break from music app, investigated design patterns & constructor pattenr specifically, also started new repo.
 
+### Day 75: December 15, 2021
+Mapped keys to 24-key piano
+
 
