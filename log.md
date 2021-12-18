@@ -237,4 +237,10 @@ Brief break from music app, investigated design patterns & constructor pattenr s
 ### Day 75: December 15, 2021
 Mapped keys to 24-key piano
 
+### Day 76: December 16, 2021
+Working toward figuring out how to get div to update
+
+### Day 77: december 17, 2021
+Change div style on click with piano key
+
 
