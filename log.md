@@ -246,4 +246,6 @@ Change div style on click with piano key
 ### Day 78: December 18, 2021
 Piano app changes colors on click of key.
 
+### Day 79: December 19, 2021
+Rearranged and commented piano app code, fixed class vs className error
 
