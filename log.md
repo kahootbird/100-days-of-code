@@ -249,3 +249,7 @@ Piano app changes colors on click of key.
 ### Day 79: December 19, 2021
 Rearranged and commented piano app code, fixed class vs className error
 
+### Day 80: December 20, 2021
+Deployed piano app to server & updated portfolio site
+
+
