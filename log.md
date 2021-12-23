@@ -255,4 +255,7 @@ Deployed piano app to server & updated portfolio site
 ### Day 81: December 21, 2021
 Started working on module design pattern / understanding importing modules (As day 74)
 
+### Day 82: December 22, 2021
+Crafting modular code example with AMD syntax in javascript
+
 
