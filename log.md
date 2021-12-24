@@ -258,4 +258,7 @@ Started working on module design pattern / understanding importing modules (As d
 ### Day 82: December 22, 2021
 Crafting modular code example with AMD syntax in javascript
 
+### Day 83: December 23, 2021
+Attempted modular pattern & ES2015 (with default errors)
+
 
