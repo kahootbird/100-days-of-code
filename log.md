@@ -261,4 +261,7 @@ Crafting modular code example with AMD syntax in javascript
 ### Day 83: December 23, 2021
 Attempted modular pattern & ES2015 (with default errors)
 
+### Day 84: December 24, 2021
+Singleton pattern & its use cases /with constructed example mimicked from real example.
+
 
