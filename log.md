@@ -264,4 +264,7 @@ Attempted modular pattern & ES2015 (with default errors)
 ### Day 84: December 24, 2021
 Singleton pattern & its use cases /with constructed example mimicked from real example.
 
+### Day 85: December 25, 2021
+Observer pattern added to javascript design repo / studied
+
 
