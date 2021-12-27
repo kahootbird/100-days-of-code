@@ -267,4 +267,7 @@ Singleton pattern & its use cases /with constructed example mimicked from real e
 ### Day 85: December 25, 2021
 Observer pattern added to javascript design repo / studied
 
+### Day 86: December 26, 2021
+Studied mediator pattern & publish/subscribe pattern
+
 
