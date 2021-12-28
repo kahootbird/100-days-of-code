@@ -270,4 +270,7 @@ Observer pattern added to javascript design repo / studied
 ### Day 86: December 26, 2021
 Studied mediator pattern & publish/subscribe pattern
 
+### Day 87: December 27, 2021
+Prototype pattern in javascript.
+
 
