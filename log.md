@@ -273,4 +273,7 @@ Studied mediator pattern & publish/subscribe pattern
 ### Day 87: December 27, 2021
 Prototype pattern in javascript.
 
+### Day 88: December 28, 2021
+Command pattern in javascript / started working on example & reading
+
 
