@@ -279,3 +279,7 @@ Command pattern in javascript / started working on example & reading
 ### Day 89: December 29, 2021
 Understanding of command pattern calculator example from dofactory.com (modified slightly)
 
+### Day 90: December 30, 2021
+Fixed broken git auth token, found facade pattern example from dofactory
+
+
