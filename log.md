@@ -282,4 +282,8 @@ Understanding of command pattern calculator example from dofactory.com (modified
 ### Day 90: December 30, 2021
 Fixed broken git auth token, found facade pattern example from dofactory
 
+### Day 91: December 31, 2021
+Factory & Abstract Factory Patterns
 
+### Day 92: January 01, 2022
+Mixin & Decorators
