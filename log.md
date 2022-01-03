@@ -287,3 +287,11 @@ Factory & Abstract Factory Patterns
 
 ### Day 92: January 01, 2022
 Mixin & Decorators
+
+### Day 93: January 02, 2022
+Began reading about flyweight pattern.
+
+### Day 94: January 03, 2022
+Flyweight pattern with example, concrete flyweight, duck punching, intrinsic and extrinsic flyweight.
+
+
