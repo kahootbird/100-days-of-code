@@ -294,4 +294,7 @@ Began reading about flyweight pattern.
 ### Day 94: January 03, 2022
 Flyweight pattern with example, concrete flyweight, duck punching, intrinsic and extrinsic flyweight.
 
+### Day 95: January 04, 2022
+Started working on coffee landing page from before for the final 5 days, basic tags, starting small again
+
 
