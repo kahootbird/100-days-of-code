@@ -297,4 +297,7 @@ Flyweight pattern with example, concrete flyweight, duck punching, intrinsic and
 ### Day 95: January 04, 2022
 Started working on coffee landing page from before for the final 5 days, basic tags, starting small again
 
+### Day 96: January 05, 2022
+Thorough code review of piano app. Great feedback, learned a lot about ES6 syntax, eslint, code structure and much more.
+
 
