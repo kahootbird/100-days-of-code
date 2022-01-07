@@ -300,4 +300,6 @@ Started working on coffee landing page from before for the final 5 days, basic t
 ### Day 96: January 05, 2022
 Thorough code review of piano app. Great feedback, learned a lot about ES6 syntax, eslint, code structure and much more.
 
+### Day 97: January 06, 2022
+Minor changes to piano app cleaning code after yesterdays review. More work on coffee site design, centered image full screen & made scrollable past the image.
 
