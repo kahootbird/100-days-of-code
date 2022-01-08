@@ -303,3 +303,7 @@ Thorough code review of piano app. Great feedback, learned a lot about ES6 synta
 ### Day 97: January 06, 2022
 Minor changes to piano app cleaning code after yesterdays review. More work on coffee site design, centered image full screen & made scrollable past the image.
 
+### Day 98: January 07, 2022
+Placeholder text & div menu for coffee site.
+
+
