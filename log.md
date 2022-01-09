@@ -306,4 +306,7 @@ Minor changes to piano app cleaning code after yesterdays review. More work on c
 ### Day 98: January 07, 2022
 Placeholder text & div menu for coffee site.
 
+### Day 99: January 08, 2022
+Final coffee site finished, will probably not use for portoflio piece.
+
 
