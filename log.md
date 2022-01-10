@@ -309,4 +309,5 @@ Placeholder text & div menu for coffee site.
 ### Day 99: January 08, 2022
 Final coffee site finished, will probably not use for portoflio piece.
 
-
+### Day 100: January 09, 2022
+Bridge pattern explanation and example submitted.
